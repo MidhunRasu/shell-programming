@@ -1,0 +1,10 @@
+var rno="22eee056";
+var name1="Midhun K R";
+var mark1=98;
+var mark2=91;
+var mark3=94;
+var per=(mark1+mark2+mark3)/3;
+console.log("ro no:",rno);
+console.log("name:",name1);
+console.log("marks:","mark1","mark2","marks3");
+console.log("percentage",per);
